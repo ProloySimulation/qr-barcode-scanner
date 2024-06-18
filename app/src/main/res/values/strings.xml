@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QR &amp; Barcode Scanner</string>
+    <string name="search_on_web">Search On Web</string>
+    <string name="copy_text">Copy Text</string>
+    <string name="facebook_app_id">1848921088884413</string>
+    <string name="facebook_client_token">f2f0fde019f86e3e9244f5909a0b9ea2</string>
+    <string name="app_id">a65d9fc0aa206a</string>
+    <string name="app_key">ab8c4bb491939dc9ade27981117825cca</string>
+</resources>
